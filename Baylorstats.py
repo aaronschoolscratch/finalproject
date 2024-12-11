@@ -100,4 +100,4 @@ fig.show()
 
 print("\nTop 5 Teams with Highest Attendance Against Baylor:")
 for team, attendance in top_5_teams:
-    print(f"{team}: {attendance}")
+   
